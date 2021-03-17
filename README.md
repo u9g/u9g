@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![u9g's GitHub stats](https://github-readme-stats.vercel.app/api?username=u9g)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **u9g/u9g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
